@@ -1,0 +1,1 @@
+{"name":"Local: extra_pc","url":"/home/utshoprogrammer/Utsho-Programmer/module 14/extra_pc.c","tests":[{"id":1777993400106,"input":"3\n3 4 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/utshoprogrammer/Utsho-Programmer/module 14/extra_pc.c","group":"local","local":true}
