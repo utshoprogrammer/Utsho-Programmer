@@ -1,0 +1,1 @@
+{"name":"Local: pc","url":"/home/utshoprogrammer/Utsho-Programmer/c++ for DSA/module 3/pc.cpp","tests":[{"id":1779861822257,"input":"rakib 1 A 98 10\nsakib 2 A 99 10\nakib 3 A 99 10","output":"sakib"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/utshoprogrammer/Utsho-Programmer/c++ for DSA/module 3/pc.cpp","group":"local","local":true}
