@@ -9,7 +9,7 @@ int main()
     string word;
 
     int flag = 0;
-    // ss >> word;
+    //ss >> word;
     while (ss >> word)
     {
         if (word == "Jessica")
